@@ -1,0 +1,21 @@
+Date,Amount,Category,Type,Notes,Tags
+2025-01-22,150.0,Health,expense,Gym membership,#fitness
+2025-01-22,150.0,Health,expense,Gym membership,#fitness
+2025-01-20,35.0,Transport,expense,Bus pass,#daily
+2025-01-20,35.0,Transport,expense,Bus pass,#daily
+2025-01-18,500.0,Utilities,expense,Electricity bill,#monthly
+2025-01-18,500.0,Utilities,expense,Electricity bill,#monthly
+2025-01-15,100.0,Food,expense,Restaurant,#social
+2025-01-15,100.0,Food,expense,Restaurant,#social
+2025-01-12,45.0,Entertainment,expense,Movie ticket,#weekend
+2025-01-12,45.0,Entertainment,expense,Movie ticket,#weekend
+2025-01-10,200.0,Shopping,expense,Clothes,#personal
+2025-01-10,200.0,Shopping,expense,Clothes,#personal
+2025-01-08,30.0,Transport,expense,Cab fare,#daily
+2025-01-08,30.0,Transport,expense,Cab fare,#daily
+2025-01-05,50.0,Food,expense,Groceries,#weekly
+2025-01-05,50.0,Food,expense,Groceries,#weekly
+2025-01-01,5000.0,Salary,income,Monthly salary,
+2025-01-01,500.0,Utilities,expense,Rent payment,#monthly
+2025-01-01,5000.0,Salary,income,Monthly salary,
+2025-01-01,500.0,Utilities,expense,Rent payment,#monthly

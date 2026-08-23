@@ -1,0 +1,11 @@
+[
+  {
+    "transaction_id": 14,
+    "interval": "monthly",
+    "next_date": "2026-01-28T00:00:00",
+    "original_amount": 350.0,
+    "original_category": "#reacharge",
+    "original_notes": "airtel",
+    "original_tags": "#recharge"
+  }
+]
